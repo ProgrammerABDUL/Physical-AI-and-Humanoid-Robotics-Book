@@ -1,0 +1,125 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.ENV
+.venv.bak/
+pip-log.txt
+pip-selfcheck.json
+*.egg-info/
+.eggs/
+.egg/
+
+# Build outputs
+dist/
+build/
+*.min.js
+*.min.css
+*.map
+coverage/
+.nyc_output/
+coverage-final.json
+.next/
+.nuxt/
+out/
+.output/
+.svelte-kit/
+.svelte/
+target/
+bin/
+obj/
+debug/
+release/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Environment specific
+.env*
+.env.local
+.env.dev
+.env.test
+.env.prod
+.env*.local
+.env*.dev
+.env*.test
+.env*.prod
+.env.backup
+.env.local.backup
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+lib-cov/
+
+# Debug
+debug.log
+*.log
+
+# System
+.DS_Store
+Thumbs.db
+
+# Python
+*.pyc
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.ENV
+.venv.bak/
+pip-log.txt
+pip-selfcheck.json
+*.egg-info/
+.eggs/
+.egg/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docusaurus
+.docusaurus/
+build/
+
+# Backend
+rag-backend/__pycache__/
+rag-backend/*.pyc
+rag-backend/*.pyo
+rag-backend/*.pyd
+rag-backend/.pytest_cache/
+rag-backend/.venv/
+rag-backend/venv/
+rag-backend/env/
